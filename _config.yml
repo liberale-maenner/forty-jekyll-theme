@@ -1,7 +1,7 @@
 # site settings
 title: Oliver Hoffmann
 subtitle: 
-email: oliver@hoffmann.org
+email: anfrage@oliver.at
 description: 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Wien
 state: 
 zip_code: 1040
 country: Austria
-phone: +43-676-4067794
+phone: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
