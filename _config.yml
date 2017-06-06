@@ -4,7 +4,7 @@ subtitle:
 email: anfrage@oliver.at
 description: 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "http://www.oliver.at" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: Oliver Hoffmann
 street_address: Karolinengasse 31/20
 city: Wien
