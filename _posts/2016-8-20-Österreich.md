@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wien
+title: Österreich
 description: Feugiat amet tempus
 image: assets/images/pic06.jpg
 ---
