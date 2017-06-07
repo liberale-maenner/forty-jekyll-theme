@@ -5,7 +5,7 @@ email: anfrage@oliver.at
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Oliver Hoffmann
+author: Oliver P. Hoffmann
 street_address: Karolinengasse 31/20
 city: Wien
 state: 
