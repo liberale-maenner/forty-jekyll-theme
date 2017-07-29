@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Demokratie
 description: Nisl sed aliquam
 image: assets/images/pic04.jpg
 ---
