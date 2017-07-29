@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Wien
 description: Ipsum dolor sit amet
 image: assets/images/pic05.jpg
 ---
