@@ -1,10 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Informatik Österreich Politik'
+landing-title: 'Gründungsversammlung Liberale Männer e.V.'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hiermit laden wir herzlich ein zur Gründungsversammlung der Liberalen Männer e.V. am Samstag, 5. August um 13-16 Uhr in Nürnberg.
+
