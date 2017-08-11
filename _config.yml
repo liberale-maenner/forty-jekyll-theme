@@ -12,7 +12,7 @@ state:
 zip_code: 1040
 country: Austria
 phone: 
-logo: liberale-maenner-d.png
+logo: "assets/images/liberale-maenner-d.png"
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
