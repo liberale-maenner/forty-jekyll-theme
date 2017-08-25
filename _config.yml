@@ -6,11 +6,11 @@ description: Hiermit laden wir herzlich ein zur Gründungsversammlung der Libera
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Oliver P. Hoffmann
-street_address: Karolinengasse 31/20
-city: Wien
+street_address: 
+city: 
 state: 
-zip_code: 1040
-country: Austria
+zip_code: 
+country: 
 phone: 
 logo: "assets/images/logo.png" 
 
